@@ -1,7 +1,7 @@
-##Todo Application Backend
+# Todo Application Backend
 A robust Node.js + Express + MongoDB backend for a Todo management application with full CRUD operations, filtering, and agenda features.
 
-##Features
+# Features
 ✅ Create, read, update, and delete todos
 
 ✅ Filter todos by status, priority, category, and search text
@@ -16,7 +16,7 @@ A robust Node.js + Express + MongoDB backend for a Todo management application w
 
 ✅ Security headers with Helmet.js
 
-##Technologies Used
+# Technologies Used
 Node.js - Runtime environment
 
 Express.js - Web framework
@@ -31,7 +31,7 @@ Helmet.js - Security headers
 
 CORS - Cross-origin resource sharing
 
-##Project Structure
+# Project Structure
 text
 todo-backend/
 ├─ src/
@@ -55,7 +55,7 @@ todo-backend/
 ├─ package.json             # Dependencies and scripts
 └─ README.md               # This file
 
-##Setup Instructions
+# Setup Instructions
 Prerequisites
 Node.js (v14 or higher)
 
@@ -63,7 +63,7 @@ MongoDB (local installation or MongoDB Atlas account)
 
 npm or yarn
 
-##Installation
+# Installation
 Clone the repository:
 
 bash
